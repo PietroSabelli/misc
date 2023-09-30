@@ -2,7 +2,6 @@
 {-# OPTIONS --without-K #-}
 
 -- the recursive universe Set_mf
--- defined internally in HoTT
 
 open import Level using (suc ; _⊔_)
 open import Relation.Binary
